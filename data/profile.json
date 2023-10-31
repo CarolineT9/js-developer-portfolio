@@ -1,14 +1,14 @@
 {
-  "name": "Renan J Paula",
-  "photo": "https://avatars.githubusercontent.com/u/3266640?v=4",
-  "job": "Tech Lead no S3 Bank",
-  "location": "São Paulo - SP",
-  "phone": "(16) 98159-7656",
-  "email": "renanjohannsen@gmail.com",
+  "name": "Caroline Tavares",
+  "photo": "https://media.licdn.com/dms/image/D4D03AQHj3hvL_7Ax1w/profile-displayphoto-shrink_800_800/0/1683103500626?e=1704326400&v=beta&t=BV4sG7rEAWnvlbOoqgpU9jaM3q2kltkWb_YpPG7ZIHA",
+  "job": "DAD Tech",
+  "location": "Porto Alegre",
+  "phone": "(53) 981371619",
+  "email": "caroltvrs@gmail.com",
   "skills": {
     "hardSkills": [
       {
-        "name": "Nodejs",
+        "name": "Python",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
       },
       {
